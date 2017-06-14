@@ -1,0 +1,23 @@
+{
+  "name": "suburi-performance",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/meganetaaan/suburi-performance.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/meganetaaan/suburi-performance/issues"
+  },
+  "homepage": "https://github.com/meganetaaan/suburi-performance#readme",
+  "devDependencies": {
+    "live-server": "^1.2.0"
+  }
+}
